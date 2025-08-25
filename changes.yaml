@@ -1,9 +1,19 @@
+- version: v1.3.7a
+  date: 2025-08-17
+  changes:
+    - Standardising the 'Site Changes' button the website to be a TransportThing variant. 
+    - Re-added Livery Database button
+    - Made some font and colour changes
+    - Made Fleet list smaller
+    - Re-Branded all to be 'TransportThing' rather than else. 
+    - Fixed all HTML Tagging issues
+    
 - version: v1.3.1
   date: 2025-08-17
   changes:
-    - Added matching livery box sizes much like BusTimes livery boxes. :)
+    - Added matching livery box sizes much like TransportThing livery boxes. :)
     - Tweaked outlines in small preview.
-    - Defaulted to BusTimes Livery Preview category
+    - Defaulted to TransportThing Livery Preview category
     - Added Site Changes API using YAML and added a button to view site changes on the website.
 - version: v1.0.0
   date: 2025-04-01
